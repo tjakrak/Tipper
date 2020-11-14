@@ -24,6 +24,7 @@ The following **additional** features are implemented:
 
 - [x] Dark Mode
 - [x] Spliting the bill according to the number of people
+- [x] Add app icon
 
 ## Video Walkthrough
 
